@@ -1,6 +1,5 @@
  /*
  * Copyright 2018, Carlos Aniorte Llanes <carlos.aniortellanes@gmail.com>
- * Copyright 2016, BitCrushers Team
  *
  * This file is part of snailScape
  *
